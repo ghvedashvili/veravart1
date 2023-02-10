@@ -12,7 +12,7 @@
         <input type="hidden" name="id" id="id" value="{{$students->id}}" id="id" />
         <label>Name</label></br>
         <input type="text" name="name" id="name" value="{{$students->name}}" class="form-control"></br>
-        <label>stadium</label></br>
+        <label>stadiumltttttt</label></br>
         <input type="text" name="stadium" id="address" value="{{$students->stadium}}" class="form-control"></br>
         <label>Mobile</label></br>
         <input type="text" name="fanclub" id="mobile" value="{{$students->fanclub}}" class="form-control"></br>
